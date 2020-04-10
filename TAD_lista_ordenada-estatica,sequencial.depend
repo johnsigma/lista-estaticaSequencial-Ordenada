@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1558409890 source:c:\users\johnz\desktop\programação\aed1\trabalho1\03\tad_lista_ordenada(estática,sequencial)\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1556477574 c:\users\johnz\desktop\programação\aed1\trabalho1\03\tad_lista_ordenada(estática,sequencial)\lista.h
+
+1558409840 source:c:\users\johnz\desktop\programação\aed1\trabalho1\03\tad_lista_ordenada(estática,sequencial)\user.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"lista.h"
+
